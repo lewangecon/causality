@@ -1,0 +1,18 @@
+---
+title: "Syllabus"
+---
+
+# Course Title
+Introduction to [Your Course]
+
+## Course Description
+This course covers...
+
+## Learning Objectives
+By the end of this course, students will...
+
+## Schedule
+| Week | Topic |
+|------|-------|
+| 1    | Introduction to... |
+| 2    | Advanced...        |

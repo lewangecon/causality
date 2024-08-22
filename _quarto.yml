@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "AAEC 5946: Causal Inference"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Syllabus"
+        href: syllabus.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
